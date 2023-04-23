@@ -6,6 +6,9 @@ This is a Web Scrapped Ecommerce website.
 
 In the project directory, you can run:
 
+### 'npm install'
+Install packages and dependencies needed to run an application 
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
